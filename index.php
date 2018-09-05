@@ -195,7 +195,14 @@
                     </a>
                 </div>
                 <div class="supporter">
+                    <a href="http://bp2dk.id">
                     <img src="<?php echo get_bloginfo('template_directory'); ?>/res/bp2dk.png">
+		    </a>
+                </div>
+                <div class="supporter">
+                    <a href="http://microvac.co.id">
+                    <img style="margin-left: -20px;" src="<?php echo get_bloginfo('template_directory'); ?>/res/microvac.png">
+	            </a>
                 </div>
             </div>
             <div class="support-mobile col-xs-12">
@@ -221,7 +228,7 @@
                 </div>
                 <div class="supporter-mobile col-xs-6">
                     <a href="http://bpkp.go.id">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/res/bpkp.jpg">
+                        <img style="width: 100px;margin-top: 10px;" src="<?php echo get_bloginfo('template_directory'); ?>/res/bpkp.jpg">
                     </a>
                 </div>
                 <div class="supporter-mobile col-xs-6">
@@ -230,7 +237,14 @@
                     </a>
                 </div>
                 <div class="supporter-mobile col-xs-6">
+                    <a href="http://bp2dk.id">
                     <img src="<?php echo get_bloginfo('template_directory'); ?>/res/bp2dk.png">
+	            </a>
+                </div>
+                <div class="supporter-mobile col-xs-6">
+                    <a href="http://microvac.co.id">
+                    <img style="width: 100px; margin-top: 25px;" src="<?php echo get_bloginfo('template_directory'); ?>/res/microvac.png">
+	            </a>
                 </div>
             </div>
         </div>
